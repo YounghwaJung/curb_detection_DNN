@@ -59,8 +59,24 @@ The link for dataset is https://drive.google.com/file/d/1wWIfqSJWXSlpD9BlSobL69f
 [![Watch the video](https://drive.google.com/uc?export=view&id=1uM0ZzE4l2KcD10db5l6jWYRP02sbAiYr)](https://youtu.be/2d28cw9zb-0)
 
 
-## Project Code 
-TDB
 ### Requirements
 * Python 3.5
 * Tensorflow 1.11
+
+## Cite
+If you think this work is useful in your research, please consider cite our paper:
+```
+@INPROCEEDINGS { jung2021curb,
+    AUTHOR = {Younghwa Jung, Mingu Jeon, Chan Kim, Seung-Woo Seo, and Seong-Woo Kim},
+    TITLE = {Uncertainty-Aware Fast Curb Detection Using Convolutional Networks in Point Clouds },
+    BOOKTITLE = {Proceedings of the IEEE International Conference on Robotics and Automation (ICRA) },
+    YEAR = {2021},
+    MONTH = {May},
+    ADDRESS = {Xian},
+    NOTE = {Accepted. To appear.},
+}
+
+```
+
+
+
