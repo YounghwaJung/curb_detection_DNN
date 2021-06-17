@@ -66,7 +66,7 @@ The link for dataset is https://drive.google.com/file/d/1wWIfqSJWXSlpD9BlSobL69f
 ## Cite
 If you think this work is useful in your research, please consider cite our paper:
 ```
-@INPROCEEDINGS { jung2021curb,
+@INPROCEEDINGS {jung2021curb,
     AUTHOR = {Younghwa Jung, Mingu Jeon, Chan Kim, Seung-Woo Seo, and Seong-Woo Kim},
     TITLE = {Uncertainty-Aware Fast Curb Detection Using Convolutional Networks in Point Clouds },
     BOOKTITLE = {Proceedings of the IEEE International Conference on Robotics and Automation (ICRA) },
