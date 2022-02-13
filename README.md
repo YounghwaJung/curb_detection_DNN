@@ -52,7 +52,7 @@ Folder descrption
 * top_view_raw : The bird's eye view image of 3D point cloud for visualization.
 * pcd_file : 3D raw point cloud.
 
-The link for dataset is http://naver.me/5JPVyx7m
+The link for dataset is https://drive.google.com/file/d/11l32WG1IXiDI8I9TDnRjkDtRha3Afhdq/view?usp=sharing
 
 ## Label Extraction from Semantic Map
 
